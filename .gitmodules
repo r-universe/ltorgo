@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DMwR2"]
+	path = DMwR2
+	url = https://github.com/ltorgo/dmwr2
+	shallow = true
+	registered = true
 [submodule "performanceEstimation"]
 	path = performanceEstimation
 	url = https://github.com/ltorgo/performanceestimation
