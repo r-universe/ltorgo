@@ -1,9 +1,5 @@
 [
   {
-    "package": "DMwR2",
-    "oncran": true
-  },
-  {
     "package": "performanceEstimation",
     "oncran": true
   }
